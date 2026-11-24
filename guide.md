@@ -116,7 +116,6 @@ Club Med → 石垣市中心（午餐＋步行購物）→ 川平灣 → Club Me
 
 ## 購物補充
 
-- [MUJI 商品角落（備選）](https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%82%A8%E3%83%BC%E7%9F%B3%E5%9E%A3%E3%82%B7%E3%83%86%E3%82%A3)：San-A 石垣 City；非完整獨立門市，不建議特地繞路。
 - [大型唐吉訶德（備選）](https://www.donki.com/store/shop_detail.php?shop_id=507)：生活用品及藥妝較多，需另搭車。
 
 ## 商品與實景照片索引
