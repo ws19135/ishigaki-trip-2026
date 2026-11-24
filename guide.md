@@ -2,7 +2,7 @@
 
 2026年12月1日（二）　8位大人＋1位嬰兒　Club Med Kabira 出差首日
 
-行程原則：不趕景點，專注石垣牛午餐與市區購物，唯一景點為川平灣玻璃底船。以下皆為日本時間（台灣時間＋1小時）。餐廳、包車及船班尚未完成預約。
+行程原則：不趕景點，專注石垣牛午餐與市區購物，唯一景點為川平灣玻璃底船。以下皆為日本時間（台灣時間＋1小時）。午餐餐廳已選定；實際訂位時間、包車及船班以預約確認為準。
 
 ## 01　行程總覽
 
@@ -10,7 +10,7 @@
 
 11:00–11:50｜飯店出發，包車前往市區。
 
-12:00–13:30｜皐 Satsuki 石垣牛壽喜燒／涮涮鍋。
+12:00–13:30｜滿天阿古豬・石亭 Sekitei 石垣牛壽喜燒／涮涮鍋。
 
 13:30–15:00｜Euglena Mall、公設市場、大國藥妝、伴手禮唐吉訶德，自由購物及甜點。
 
@@ -28,23 +28,19 @@
 
 Club Med → 石垣市中心（午餐＋步行購物）→ 川平灣 → Club Med
 
-[開啟 Google Maps 全程包車路線](https://www.google.com/maps/dir/?api=1&origin=Club%20Med%20Kabira%20Ishigaki&destination=Club%20Med%20Kabira%20Ishigaki&waypoints=24.3392918%2C124.1575299%7CEuglena%20Mall%20Ishigaki%7C%E5%B7%9D%E5%B9%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&travelmode=driving)
+[開啟 Google Maps 全程包車路線](https://www.google.com/maps/dir/?api=1&origin=Club%20Med%20Kabira%20Ishigaki&destination=Club%20Med%20Kabira%20Ishigaki&waypoints=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3%7CEuglena%20Mall%20Ishigaki%7C%E5%B7%9D%E5%B9%B3%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&travelmode=driving)
 
-[市區步行地圖：皐 Satsuki → Euglena Mall／公設市場 → 大國藥妝 → 730 COURT](https://www.google.com/maps/dir/?api=1&origin=24.3392918,124.1575299&destination=730%20COURT%20Ishigaki&waypoints=Euglena%20Mall%20Ishigaki%7C%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E7%9F%B3%E5%9E%A3730%E8%A8%98%E5%BF%B5%E7%A2%91%E5%89%8D%E5%BA%97&travelmode=walking)
+[市區步行地圖：滿天阿古豬・石亭 Sekitei → Euglena Mall／公設市場 → 大國藥妝 → 730 COURT](https://www.google.com/maps/dir/?api=1&origin=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3&destination=730%20COURT%20Ishigaki&waypoints=Euglena%20Mall%20Ishigaki%7C%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E7%9F%B3%E5%9E%A3730%E8%A8%98%E5%BF%B5%E7%A2%91%E5%89%8D%E5%BA%97&travelmode=walking)
 
-## 02　石垣牛午餐｜皐 Satsuki
+## 02　石垣牛午餐｜滿天阿古豬・石亭 Sekitei
 
-しゃぶしゃぶ・すき焼き皐：日式古民家風格，主打石垣牛壽喜燒、涮涮鍋及島豬，適合安靜的同事聚餐。地址：沖縄県石垣市大川225。
+已選定餐廳，12/1 12:00–13:30（日本時間，實際訂位時間以確認單為準），8位大人＋1位嬰兒。
 
-套餐參考：石垣牛壽喜燒 ¥12,000／人；石垣牛涮涮鍋 ¥11,000／人；島豬涮涮鍋 ¥8,000／人。八位成人壽喜燒合計 ¥96,000，未含嬰兒餐與額外飲料；實際午餐菜單以訂位頁為準。
+農場直營日式鍋物，地址：沖繩縣石垣市美崎町1-3。午餐參考營業11:00–14:30。A5石垣牛御膳 ¥5,900／人，可選壽喜燒或涮涮鍋；純種阿古豬御膳 ¥3,400／人。八位成人全點石垣牛御膳 ¥47,200。
 
-預約需求：12/1 12:00，八位成人及一位嬰兒（共九人），同桌、嬰兒椅，確認午間套餐與取消規則。訂位查詢暫時未能完成，並非客滿。
+[官方午餐菜單與餐點照片](https://sekitei-agu.com/menu3/) ｜ [TableCheck 訂位資訊](https://www.tablecheck.com/en/sekitei-agu) ｜ [餐廳 Google Maps](https://www.google.com/maps/search/?api=1&query=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3)
 
-[TableCheck 線上訂位](https://www.tablecheck.com/ja/shops/satsuki/reserve)
-
-[餐廳 Google Maps](https://www.google.com/maps/search/?api=1&query=24.3392918%2C124.1575299)
-
-[備選：USHIGAKI 石垣牛燒肉，若皐不能接午餐九人則詢問此店。](https://www.tablecheck.com/shops/yakiniku-ushigaki/reserve)
+電話：+81 50-1784-0930。確認九人座位、嬰兒椅或推車空間。
 
 ## 03　市區購物與美食
 
@@ -110,7 +106,7 @@ Club Med → 石垣市中心（午餐＋步行購物）→ 川平灣 → Club Me
 
 [東海交通（詢價及預約）](https://ishigaki-tokai.com/taxi_jumbo.html)
 
-預算參考：六小時包車約 ¥46,200（沿用原車型估算，九人實際車型及報價待確認）；八位成人壽喜燒 ¥96,000；玻璃底船 ¥18,400（嬰兒免費條件成立時）。合計約 ¥160,600，不含嬰兒餐點、飲料、購物、停車及其他追加費用。
+預算參考：六小時包車約 ¥46,200（沿用原車型估算，九人實際車型及報價待確認）；八位成人石垣牛御膳 ¥47,200；玻璃底船 ¥18,400（嬰兒免費條件成立時）。合計約 ¥111,800，不含嬰兒餐點、飲料、購物、停車及其他追加費用。
 
 出發前確認：① 接駁及寄放行李時間　② 九人午餐訂位　③ 包車與嬰兒安全座椅　④ 船票與海況　⑤ 市區集合地點。
 
@@ -129,7 +125,6 @@ Club Med → 石垣市中心（午餐＋步行購物）→ 川平灣 → Club Me
 - [金楚糕](https://www.google.com/search?tbm=isch&q=%E9%87%91%E6%A5%9A%E7%B3%95%20%E7%9F%B3%E5%9E%A3%E5%B3%B6)
 - [琉球玻璃杯](https://www.google.com/search?tbm=isch&q=%E7%90%89%E7%90%83%E7%8E%BB%E7%92%83%E6%9D%AF%20%E7%9F%B3%E5%9E%A3%E5%B3%B6)
 - [Genki 乳業周邊](https://www.google.com/search?tbm=isch&q=Genki%20%E4%B9%B3%E6%A5%AD%E5%91%A8%E9%82%8A%20%E7%9F%B3%E5%9E%A3%E5%B3%B6)
-- [しゃぶしゃぶ すき焼き 皐 石垣島](https://www.google.com/search?tbm=isch&q=%E3%81%97%E3%82%83%E3%81%B6%E3%81%97%E3%82%83%E3%81%B6%20%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D%20%E7%9A%90%20%E7%9F%B3%E5%9E%A3%E5%B3%B6)
 - [ユーグレナモール 石垣島](https://www.google.com/search?tbm=isch&q=%E3%83%A6%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%8A%E3%83%A2%E3%83%BC%E3%83%AB%20%E7%9F%B3%E5%9E%A3%E5%B3%B6)
 - [石垣市公設市場](https://www.google.com/search?tbm=isch&q=%E7%9F%B3%E5%9E%A3%E5%B8%82%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4)
 - [ダイコクドラッグ 石垣730](https://www.google.com/search?tbm=isch&q=%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%20%E7%9F%B3%E5%9E%A3730)
