@@ -1,8 +1,8 @@
-# 石垣島｜美食・購物・川平灣半日行程
+# 石垣島｜美食・購物半日行程
 
 2026年12月1日（二）　8位大人＋1位嬰兒　Club Med Kabira 出差首日
 
-行程原則：石垣牛午餐、市區購物及大型唐吉訶德。以下皆為日本時間（台灣時間＋1小時）。午餐餐廳已選定；實際訂位與包車以確認為準。
+行程原則：石垣牛午餐、市區購物、MaxValu 八重山店及大型唐吉訶德。以下皆為日本時間（台灣時間＋1小時）。午餐餐廳已選定；實際訂位與包車以確認為準。
 
 ## 車費收取通知（日幣）
 
@@ -15,16 +15,18 @@
 | 上午 | 虎航抵達、搭接駁車回飯店、寄放行李、收取車費 |
 | 11:30–12:20 | 飯店出發，前往石垣市區 |
 | 12:30–13:30 | 滿天阿古豬・石亭 Sekitei 午餐 |
-| 13:30–14:30 | Euglena Mall、公設市場、大國藥妝、甜點 |
-| 14:30–14:50 | 前往大型唐吉訶德石垣島店 |
-| 14:50–16:00 | 大型唐吉訶德自由購物 |
+| 13:30–14:15 | Euglena Mall、公設市場、大國藥妝、甜點 |
+| 14:15–14:30 | 前往 MaxValu 八重山店 |
+| 14:30–15:00 | MaxValu 超市自由購物 |
+| 15:00–15:10 | 前往大型唐吉訶德石垣島店 |
+| 15:10–16:00 | 大型唐吉訶德自由購物 |
 | 16:00–16:50 | 返回 Club Med，17:00 前抵達 |
 
 車程為規劃估算，視交通提前返程。
 
 ![新版行程示意圖](assets/route.svg)
 
-[全程包車導航](https://www.google.com/maps/dir/?api=1&origin=Club%20Med%20Kabira%20Ishigaki&destination=Club%20Med%20Kabira%20Ishigaki&waypoints=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3%7CEuglena%20Mall%20Ishigaki%7C%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%20%E7%9F%B3%E5%9E%A3%E5%B3%B6%E5%BA%97&travelmode=driving) ｜ [市區步行導航](https://www.google.com/maps/dir/?api=1&origin=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3&destination=%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E7%9F%B3%E5%9E%A3730%E8%A8%98%E5%BF%B5%E7%A2%91%E5%89%8D%E5%BA%97&waypoints=Euglena%20Mall%20Ishigaki&travelmode=walking)
+[全程包車導航](https://www.google.com/maps/dir/?api=1&origin=Club%20Med%20Kabira%20Ishigaki&destination=Club%20Med%20Kabira%20Ishigaki&waypoints=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3%7CEuglena%20Mall%20Ishigaki%7CMaxValu%20Yaima%20Ishigaki%7C%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%20%E7%9F%B3%E5%9E%A3%E5%B3%B6%E5%BA%97&travelmode=driving) ｜ [市區步行導航](https://www.google.com/maps/dir/?api=1&origin=%E6%BA%80%E5%A4%A9%E3%82%A2%E3%82%B0%E3%83%BC%20%E7%9F%B3%E4%BA%AD%20%E7%9F%B3%E5%9E%A3%E5%B8%82%E7%BE%8E%E5%B4%8E%E7%94%BA1-3&destination=%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E7%9F%B3%E5%9E%A3730%E8%A8%98%E5%BF%B5%E7%A2%91%E5%89%8D%E5%BA%97&waypoints=Euglena%20Mall%20Ishigaki&travelmode=walking)
 
 ## 02　石垣牛午餐｜滿天阿古豬・石亭 Sekitei
 
@@ -67,11 +69,17 @@ A&W 石垣店｜捲捲薯條、Root Beer 麥根沙士。
 
 藥妝採買：防曬、保濕、面膜、日常護理用品；藥品依個人需求及成分選購。免稅請攜帶護照，並確認食品及藥品入境限制；肉類及含肉加工品勿帶回台灣。
 
-建議分流：13:30–14:00 公設市場與伴手禮；14:00–14:25 藥妝或甜點；14:30 集合上車。
+建議分流：13:30–13:50 公設市場與伴手禮；13:50–14:10 藥妝或甜點；14:15 集合上車。
+
+## AEON MaxValu 八重山店
+
+14:30–15:00，預留30分鐘。地址：沖繩縣石垣市真榮里292-1；參考營業時間24小時。推薦 TOPVALU 零食、Genki 乳品、沖繩黑糖、地方特產、熟食及壽司。
+
+[Google Maps 導航](https://www.google.com/maps/search/?api=1&query=MaxValu%20Yaima%20Ishigaki)
 
 ## 04　大型唐吉訶德石垣島店
 
-14:50–16:00，預留70分鐘，推薦藥妝、生活用品、零食及伴手禮；預留結帳及免稅時間。
+15:10–16:00，預留50分鐘，推薦藥妝、生活用品、零食及伴手禮；預留結帳及免稅時間。
 
 [官方門市資訊](https://www.donki.com/store/shop_detail.php?shop_id=507) ｜ [Google Maps](https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86%20%E7%9F%B3%E5%9E%A3%E5%B3%B6%E5%BA%97)
 
@@ -81,7 +89,7 @@ A&W 石垣店｜捲捲薯條、Root Beer 麥根沙士。
 
 車費及停車費預估 ¥59,200；午餐若八位成人全點 A5 石垣牛御膳，預估 ¥47,200。合計 ¥106,400，不含其他餐飲與購物。車資預收不含午餐。
 
-出發前確認：接駁及寄放行李、九人午餐、嬰兒安全座椅、日幣車資 ¥6,600／人、市區及大型唐吉訶德集合地點。
+出發前確認：接駁及寄放行李、九人午餐、嬰兒安全座椅、日幣車資 ¥6,600／人、市區、MaxValu 及大型唐吉訶德集合地點。
 
 
 [原始 Google 文件（可能尚未同步）](https://docs.google.com/document/d/11BoP2EWlB7yntGZHzIp8BxOi6Pe-ZHZ_vLzMjqSGF3g/edit)
